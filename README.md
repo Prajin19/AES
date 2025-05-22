@@ -24,7 +24,7 @@ Display the encrypted message as a sequence of ASCII values.
 Decrypt the ciphertext using the same XOR process and display the original message.
 
 
-# PROGRAM:
+## PROGRAM:
 ```C
 #include <stdio.h>
 #include <string.h>
