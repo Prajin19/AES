@@ -1,6 +1,6 @@
 # EX No. 8 : ADVANCED ENCRYPTION STANDARD ALGORITHM
 
-### Name  Prajin S
+### Name : Prajin S
 ### Register Number : 212223230151
 
 ## Aim:
